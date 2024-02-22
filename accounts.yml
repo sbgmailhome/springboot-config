@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to sbeeram accounts related local APIs"
+  contactDetails:
+    name: "Sireesha Beeram - CTO"
+    email: "sireeshab@intech.com"
+  onCallSupport:
+    - "(111) 555-1234"
+    - "11111111"
